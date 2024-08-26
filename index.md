@@ -1,3 +1,10 @@
+# Anika Maji's First CS193 Homework
+
+- I like that my CS193 class is in the evening!
+- I like that CS193 is teaching useful techniques that will help me in CS180 and in future CS classes!
+- I like that CS193 is in the Physics Building so I get to explore another new building on campus!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
